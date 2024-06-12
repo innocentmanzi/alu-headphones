@@ -1,11 +1,12 @@
 # alu-headphones
 
 # Description
-In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
+In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledge you previously learned.
 
-You won't have a lot of instructions, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
+You won't have a lot of instructions, and you are free to implement it the way you want. The objective is simple: Have a fully functional web page that looks the same as the designer file.
 
-![headphones_hero_1](https://github.com/innocentmanzi/alu-headphones/assets/116680024/e9b5e93b-f3ef-4595-9855-602a9eed7851)
+![WhatsApp Image 2024-06-12 at 13 39 04_04abab2a](https://github.com/innocentmanzi/alu-headphones/assets/116680024/5b8880fc-d3fb-483f-aaf7-539eff42b1e6)
+
 
 # Special notes
 1. Be familiar with Figma.
