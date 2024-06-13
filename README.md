@@ -16,4 +16,4 @@ You won't have a lot of instructions, and you are free to implement it the way y
 5. Simple HTML structure.
 
 # Author
-1. Innocent MANZI 
+Innocent MANZI 
